@@ -443,7 +443,7 @@
 	- Jordan Carlson to Cody Overholt: 1, You did a great job this week, your ability to understand and interpret statistics is a gift. Your reasoning and understanding of the data was super helpful to keeping us on page and keeping the data relevant. I feel like you're ability to say what is needed and keep the group on track and focused in the most important parts of the work is great. 
 	- Kyle Mueller to Cody Overholt: 1 Above and Beyond. Cody, you were an essential member of our team. You worked hard to ensure that our team would be successful, and I'm grateful for your diligence and your contributions to the project. The only advice I would give you is to come to the status meetings more prepared. We are all busy guys, but we should all try to work outside of class and be ready for the status meetings. We should try to get more work done earlier on in the project so we don't have to rush to get everything done at the last minute. We could all do better at this, and I personally guarantee that this will be something that I will work on.
 	- Cody Overholt to Cody Overholt: 3  You had some good insights and feedback, but it came in fairly late into the project. You had some great insights and it would be beneficial if they had more time to be fleshed out.
-	- Cody Overholt Total: 	[1, 2, 3] 		(25 + 23.25 + 22) / 3 = **23.4167**
+	- Cody Overholt Total: 	[1, 1, 3] 		(25 + 25 + 22) / 3 = **23.4167**
 ## Group 12 Score: 
 	- Jordan Carlson: 1
 	- Kyle Mueller: 1
@@ -538,7 +538,7 @@
 	- Ilya Kovalyov to Adam White: 1  Above and beyond. Adam, you always helped throughout this project and contributed to our discussions. You helped us answer one of the three questions. I would suggest before you share a Google Doc with someone, check in an incognito window to make sure it is accessible because I could not access the last file you said (because I did it too late) and could not reach you because it was too late. It was my fault mostly but make sure you test the files before you send them out. Besides that, great job!
 	- Andrew Lundgren to Adam White: 2  All requirements were met. I think that you did a great job sharing your insights and finding key parts of the data to improve our models. Some feedback would be to try and check the Slack channel more often. We are not always communicating on the channel, but towards the end of this last case study it would have helped to have a little more contact with you. Another piece of advice would be to not become fixated on one feature of the data. Your insight into the feature about numbers of contacts and the time of contact was excellent and helped us to improve our models quite a bit. I think, however, that you may have focused a little too hard on it. If you apply the same analytical skills to more features without quite as much specialization, I think you will make several vital contributions to our team moving forward. Keep up the good work!
 	- Adam White to Adam White: 3 Speak up more so that you can ensure that you are assigned enough to make a sufficient and significant contribution. Also, writing out the code from scratch may help.
-	- Adam White Total: 	[1, 1, 1, 1] 		(25 + 25 + 23.25 + 22) / 4 = **23.8125**
+	- Adam White Total: 	[1, 1, 2, 3] 		(25 + 25 + 23.25 + 22) / 4 = **23.8125**
 ## Group 15 Score: 
 	- Trevor Fernstrom: 1
 	- Ilya Kovalyov: 2
