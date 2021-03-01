@@ -141,7 +141,7 @@
 > Grade: Median of [25, 23.25, 25, (THB), (1 **late**), (N/A)] = **25**
 ## David Yang
 ### Candor Comments:
-	- 1- Exceptional. David, your contributions this week really helped the team. Your approach helped move the team in a good direction and overall made our models better.
+	- 1. Exceptional. David, your contributions this week really helped the team. Your approach helped move the team in a good direction and overall made our models better.
 	- 2. David, I was very impressed with your idea to take out the outliers in the data set. If I could give you one piece of advice, it would be spending some time to let us get to know you. We have loved having you in our group. We would love to get to know you better. 
 	- 1. David had some really good insights and he really explored the data set. He actually was the only one to talk about potential ways to deal with outliers and he discovered how the outliers would affect our model later on. He had some really great insights and was very good at communicating new idea’s and what he was trying to learn. I like that he is vocal in sharing his ideas.Improvements: David did really good job this week, no further comments on improvement. 
 	- (He is trying his best)
@@ -173,7 +173,7 @@
 	- 2. Requirements were met. You got us our model at the end, and spent a lot of time with data analysis. Spend more time with the team, sharing those insights, not working on it.
 	- 2. You did a great job keeping everyone involved and gauging participation
 	- I think you were a great PM. You helped us along the way and was very responsible with the project this week.
-	- 1 He was the coding guy and he was actively working on trying to figure out the model. Without him, we would not have finished the assignment. Thank you for your hard work Domenick.
+	- 1. He was the coding guy and he was actively working on trying to figure out the model. Without him, we would not have finished the assignment. Thank you for your hard work Domenick.
 	- 2. I feel that you’re working well as a leader for our team! Thanks for taking the lead. Sometimes I feel that you delegate more than lead, but for the most part, I think you’re doing fine.
 ### Domenick Casper Total:
 > Score: [2, 2, (), 1, 2]  
@@ -183,7 +183,7 @@
 	- 3. Slightly Deficient. You got some great insights for us dude, but we need you to spend some time with Python and play with the data in that way. Otherwise, the quality of our work will continue to go down! Great insights!
 	- 2. Good job thinking of different ways to look at data to extract meaning.
 	- I feel like you progressed a lot during the discussions. Keep being engaged and we can do a lot better next model.
-	- 3 He participated in the meetings and actually tried to help whenever he got time to be with the team. Maybe participating more outside of class time would make sure we are on track and we are diving the work evenly.
+	- 3. He participated in the meetings and actually tried to help whenever he got time to be with the team. Maybe participating more outside of class time would make sure we are on track and we are diving the work evenly.
 	- 1. Honestly, no complaints. You’re a hard worker and it shows. Thanks for helping to carry our group forward.
 ### Stephen Harrison Total:
 > Score: [3, 2, (), 3, 1]  
@@ -213,7 +213,7 @@
 	- 6. No Attempt. You were active on Slack, but we need you to spend some time using Python and understanding the reading! It will help the team, and take a lot of pressure off of us.
 	- 2. Thank you for being candid in your level of understanding of subject matters, we will do our best to help you.
 	- **6** Never heard your voice. I think you could help us during the discussions and if you know Python, help us finding the data for the case study.
-	- 6 I still don’t know what your voice sounds like. Never heard it. He comes to class but does not say a word ever. Does not help with the model and did not touch the summary. I know you said you are busy, but we are all busy and still make time to work on this class. Maybe prioritizing your time better will help you later.
+	- 6. I still don’t know what your voice sounds like. Never heard it. He comes to class but does not say a word ever. Does not help with the model and did not touch the summary. I know you said you are busy, but we are all busy and still make time to work on this class. Maybe prioritizing your time better will help you later.
 	- 4. With such a crammed semester, I understand that it’s hard to meet with so many groups. I’m working with the group right now to work out a predictable schedule, and hopefully that will help me attend more group meetings outside of class.
 ### Harrison Thorne Total:
 > Score: [6, 2, (6), 6, 4]  
@@ -234,7 +234,7 @@
 ## Andrew Robert Burns
 ### Candor Comments:
 	- 1. I always get surprised with your other ways of coding. I always learn something new from you.
-	- 2 – Great work. Very helpful, informative, and respectful. Gets work done ahead of time and carries conversation well. If I were to suggest an area in which to improve in it would be to smile more. Smiling helps brighten the conversation.
+	- 2. Great work. Very helpful, informative, and respectful. Gets work done ahead of time and carries conversation well. If I were to suggest an area in which to improve in it would be to smile more. Smiling helps brighten the conversation.
 	- 1. You contributed well to the group and brought up some good ideas. Everything was contributed in a timely order and you were very encouraging.
 	- 
 ### Andrew Robert Burns Total:
@@ -244,25 +244,25 @@
 ### Candor Comments:
 	- 3. Slightly deficient. You were great to work with and seemed excited for whatever surprises or difficulties came our way. You also finished your work faster than the rest of us. If I had to give you one piece of advice, it would just be to share your ideas confidently and more often.
 	- 2. I somehow think that the other three in this group including me did not give you too much of a chance to talk. I felt that when you tried to talk, somebody's talk overlapped your talk from talking at the same time. I feel sorry about that. I hope this event did not feel you excluded. And the other three include me worked earlier than the deadline, so we did not give you a chance to write your opinion on the summary paper. But I hope you can write your opinions even the other three kind of wrote your part up. When you read it, you may find many wrong ideas. So, don't be afraid to put your ideas. We need your brain.
-	- 2 – Follows direction well, respectful, and willing to contribute. If I were to suggest an area in which to improve in it would be to be more engage further in conversation. I know the guys dominate the conversation a bit but do not be afraid butt in. Your input is valid and very insightful.
-	- 1 – You contributed well to the group and brought up some good ideas. Everything was contributed in a timely order and you were very encouraging.
+	- 2. Follows direction well, respectful, and willing to contribute. If I were to suggest an area in which to improve in it would be to be more engage further in conversation. I know the guys dominate the conversation a bit but do not be afraid butt in. Your input is valid and very insightful.
+	- 1. You contributed well to the group and brought up some good ideas. Everything was contributed in a timely order and you were very encouraging.
 ### Rachelle Ceron Total:
 > Score: [3, 2, 2, (N/A)]  
 > Grade: Median of [22, 23.25, 23.25, (N/A)] = **23.25**
 ## Jae Jung
 ### Candor Comments:
-	- 2 – All requirements were met. You were always at the cutting-edge for how we were looking at the data and what methods we used to analyze it. Your charts are very helpful and they got us off the ground fast. If I had to give you one piece of advice, it would be to give more insights from your economics classes, because I think those really helped for this project. 
+	- 2. All requirements were met. You were always at the cutting-edge for how we were looking at the data and what methods we used to analyze it. Your charts are very helpful and they got us off the ground fast. If I had to give you one piece of advice, it would be to give more insights from your economics classes, because I think those really helped for this project. 
 	- 1. I tried to understand the background math. Spent lots of time to visualize data and try to find better model accuracy. One thing is that I hope I could understand how the model works quickly and search more about the model.
-	- 2 – Jae is very dedicated, diligent and a self-starter. Gets work done on time. If I were to suggest an area in which to improve in it would be to ask more questions. I realized there were a few things you were uncertain about concerning the action plan. If I am being unclear, please ask questions so that we can all be on the same page.
+	- 2. Jae is very dedicated, diligent and a self-starter. Gets work done on time. If I were to suggest an area in which to improve in it would be to ask more questions. I realized there were a few things you were uncertain about concerning the action plan. If I am being unclear, please ask questions so that we can all be on the same page.
 	- 1. Went above and beyond researching how to build the model and its different parameters. Your questions always bring up good discussion and helps clarify things with everyone.
 ### Jae Jung Total:
 > Score: [2, 1, 2, 1]  
 > Grade: Median of [23.25, 25, 23.25, 25] = **24.13**
 ## Jonathan Rivera
 ### Candor Comments:
-	- 2 – All requirements were met. You were a great project manager that always asked the right questions and made sure things were getting done on time. Sometimes I didn’t know what I was supposed to work on, but you were always there to respond.
+	- 2. All requirements were met. You were a great project manager that always asked the right questions and made sure things were getting done on time. Sometimes I didn’t know what I was supposed to work on, but you were always there to respond.
 	- 1. Good job leading the team this time. I liked all the ideas you suggested for this case study. The process to solve the problems were smooth. You did a lot of work too for the summary paper too.
-	- 2 – Did as the best to my ability. I guided the meeting and made sure we had a plan of action by the end of each meeting. I think I could improve on having a more solid plan before the meeting. More than just brainstorming at least.
+	- 2. Did as the best to my ability. I guided the meeting and made sure we had a plan of action by the end of each meeting. I think I could improve on having a more solid plan before the meeting. More than just brainstorming at least.
 	- 1. A great leader by dividing the group up well and reviewing what we needed to accomplish by next meeting. 
 ### Jonathan Rivera Total:
 > Score: [2, 1, 2, 1]  
@@ -281,36 +281,36 @@
 # **Group 6**
 ## Chris Brookhart
 ### Candor Comments:
-	- 1 –Above and Beyond.If our personal success is to be measured by the amount that we learn and grow in a week, then I am comfortable that I rate a 1.  I learned SOmuchand spent a great deal of time exploring concepts related to our problem but outside the scopenecessary to satisfy therequirements (for the main thingsin this regard, I refer you to my response to question 1on this personal reflection).
+	- 1. Above and Beyond.If our personal success is to be measured by the amount that we learn and grow in a week, then I am comfortable that I rate a 1.  I learned SOmuchand spent a great deal of time exploring concepts related to our problem but outside the scopenecessary to satisfy therequirements (for the main thingsin this regard, I refer you to my response to question 1on this personal reflection).
 	- 1. Excellent work early on the project, the work you did set a great foundation for the rest of the team. Even if all the work was not necessarily beneficial it still helped the team have insights of how to move forward. Continue to build upon the things we have learned so far, and you’ll keep being a strong foundation for the team.
-	- 1 – Above and Beyond. Chris, if I could give you one piece of advice going forward, it would be to keep doing what you are doing. I think you are one of the top contributors to our team and I appreciate how much time you spend to understand the problem. Your insights have really been driving our team’s progress forward, so keep it up!
-	- 1– It was clear you spent a lot of time on this project and I know there was a lot of time you spent reading, learning, and testing that cant be seen in a file. You helped us a lot this week, if you ever have any questions don’t delay in reaching out over slack and asking for suggestions to what your working on.
+	- 1. Above and Beyond. Chris, if I could give you one piece of advice going forward, it would be to keep doing what you are doing. I think you are one of the top contributors to our team and I appreciate how much time you spend to understand the problem. Your insights have really been driving our team’s progress forward, so keep it up!
+	- 1. It was clear you spent a lot of time on this project and I know there was a lot of time you spent reading, learning, and testing that cant be seen in a file. You helped us a lot this week, if you ever have any questions don’t delay in reaching out over slack and asking for suggestions to what your working on.
 ### Chris Brookhart Total:
 > Score: [1, 1, 1, 1]  
 > Grade: Median of [25, 25, 25, 25] = **25**
 ## Wyatt Ogden
 ### Candor Comments:
-	- 1 –Above and Beyond. Wyatt, I am sovery grateful for yourdeeperunderstanding of the statistical and mathematical concepts related to our projects. Your insights add a lot. The only suggestion I have this week for you is that it might be helpful if you could find time toget further along on the project prior to our first team meeting on Monday. That's not really a criticism, because I don't know that it's fair to expect that from anyone (since I think the course requirements don't really specify that as an expectation ), merely an observation thatit would be beneficial if you were able to do so. 
-	- 2 I was able to work on creating models and helped the team evaluate what the R^2 and RMSE scores signified. I have the most stats knowledge on my team so I tried to lean into my strengths for this project to have something unique I could contribute to the team. I was able to talk about how some features had overlapping information and so we only needed one or the other because having both could be detrimental to the model rather than helpful.
-	- 1 – Above and Beyond. Wyatt, you did some awesome mathematical things this week that I didn’t understand. I think if we were given another day to integrate your findings, I think we could have really boosted our final model. If I could give you one piece of advice going forward, it would be to try to find patterns like that earlier in the week if you can, so we can implement it into our models. Either way, you are doing a great job, so keep it up!
-	- 2–  I am so glad we have you to help us learn the statistical significance of our data. Your insights helped steer our group in a good direction in which we were able to learn and show a great deal more. Explore the assumptions of any statistical elements you use and help us understand even better. Avoid jargon and foreign terms to greater help us understand the same concepts you know.
+	- 1. Above and Beyond. Wyatt, I am sovery grateful for yourdeeperunderstanding of the statistical and mathematical concepts related to our projects. Your insights add a lot. The only suggestion I have this week for you is that it might be helpful if you could find time toget further along on the project prior to our first team meeting on Monday. That's not really a criticism, because I don't know that it's fair to expect that from anyone (since I think the course requirements don't really specify that as an expectation ), merely an observation thatit would be beneficial if you were able to do so. 
+	- 2. I was able to work on creating models and helped the team evaluate what the R^2 and RMSE scores signified. I have the most stats knowledge on my team so I tried to lean into my strengths for this project to have something unique I could contribute to the team. I was able to talk about how some features had overlapping information and so we only needed one or the other because having both could be detrimental to the model rather than helpful.
+	- 1. Above and Beyond. Wyatt, you did some awesome mathematical things this week that I didn’t understand. I think if we were given another day to integrate your findings, I think we could have really boosted our final model. If I could give you one piece of advice going forward, it would be to try to find patterns like that earlier in the week if you can, so we can implement it into our models. Either way, you are doing a great job, so keep it up!
+	- 2. I am so glad we have you to help us learn the statistical significance of our data. Your insights helped steer our group in a good direction in which we were able to learn and show a great deal more. Explore the assumptions of any statistical elements you use and help us understand even better. Avoid jargon and foreign terms to greater help us understand the same concepts you know.
 ### Wyatt Ogden Total:
 > Score: [1, 2, 1, 2]  
 > Grade: Median of [25, 23.25, 25, 23.25] = **~24.13**
 ## Bretton Steiner
 ### Candor Comments:
-	- 1 –Above and Beyond. Breton, once again you were a solid anchor for our team.We rely heavily on your programming skills. I feel like you are able to synthesizethe ideas of everyone intoaprofessional-level implementation.For the second time, I don't really have any advice for you (and you are the only one I can say that of). I think you are going to do great in the professional world. Having been a corporate executive, and from what I have seen so far, I wouldn't hesitate to hire you. Keep up the good work!
+	- 1.Above and Beyond. Breton, once again you were a solid anchor for our team.We rely heavily on your programming skills. I feel like you are able to synthesizethe ideas of everyone intoaprofessional-level implementation.For the second time, I don't really have any advice for you (and you are the only one I can say that of). I think you are going to do great in the professional world. Having been a corporate executive, and from what I have seen so far, I wouldn't hesitate to hire you. Keep up the good work!
 	- 2 You did a great job taking the models other on the team made and incorporating what you had to move the team forward, you had a good balance of finding what was relevant to move forward and what was not needed that other produced. The formatting and notes in your notebook files make it easy to grasp what each code chunk is doing. Hopefully the career fair went well for you, I look forward working on the next module with you. 
-	- 1 – Above and Beyond. Bretton, if I could give you one piece of advice going forward, it would be to keep doing what you are doing. You may not have had any special thing to bring to the executive summary this week, but you did do a lot of work on bringing in external data to try and get something. Keep it up! You’re doing great!
-	- 2 – Your coding knowledge far surpasses my own and for all your insights and contributions I am grateful. As you take the reigns in leading us this next week, use things that you liked in our teamwork and address any faults we can work on. 
+	- 1. Above and Beyond. Bretton, if I could give you one piece of advice going forward, it would be to keep doing what you are doing. You may not have had any special thing to bring to the executive summary this week, but you did do a lot of work on bringing in external data to try and get something. Keep it up! You’re doing great!
+	- 2. Your coding knowledge far surpasses my own and for all your insights and contributions I am grateful. As you take the reigns in leading us this next week, use things that you liked in our teamwork and address any faults we can work on. 
 ### Bretton Steiner Total:
 > Score: [1, 2, 1, 2]  
 > Grade: Median of [25, 23.25, 25, 23.25] = **~24.13**
 ## Jordan Watts
 ### Candor Comments:
-	- 1 –Above and Beyond. Jordan, I thought you did an excellent job as team leader this week, and the work that you did with the geographical mapping was amazing! In retrospect --and this is no more on you than anyone else on the team --I think we need to make sure we are carefulto fully excel in the fundamental elements of the problem before we start exploring the exciting above-and-beyond elements, like geo-mapping.  That said, I was almost disappointed that we didn’tget to present this week because it meant we didn’t get to show off your map!
+	- 1.Above and Beyond. Jordan, I thought you did an excellent job as team leader this week, and the work that you did with the geographical mapping was amazing! In retrospect --and this is no more on you than anyone else on the team --I think we need to make sure we are carefulto fully excel in the fundamental elements of the problem before we start exploring the exciting above-and-beyond elements, like geo-mapping.  That said, I was almost disappointed that we didn’tget to present this week because it meant we didn’t get to show off your map!
 	- 1: excellent job with the geo-pandas and all the work you did to create those graphics. The visuals made it much easier to see how important location and waterfront truly were. All the members of the group were blown away with the graphics and I feel the TA was as well. Continue to find ways to express the data so that it is highly intuitive what is going on.
-	- 1 – Above and Beyond. Jordan, if I could give you one piece of advice going forward, it would be to spend a little more time on the model. Your work with that geographical heatmap was amazing which is why I have given you this high score, but I think it may have taken a little too much of your time away from modeling. Keep up the great work!
+	- 1. Above and Beyond. Jordan, if I could give you one piece of advice going forward, it would be to spend a little more time on the model. Your work with that geographical heatmap was amazing which is why I have given you this high score, but I think it may have taken a little too much of your time away from modeling. Keep up the great work!
 	- 2– Keep working in reading the hints and asking good questions in group meetings I can tell your greatest weakness is in understanding how to code. While this isn’t the focus of the work we do it is still very important and will help you develop good models in the course and later on. 
 ### Jordan Watts Total:
 > Score: [1, 1, 1, 2]  
@@ -329,21 +329,21 @@
 # **Group 7**
 ## Mars Biziyabal
 ### Candor Comments:
-	- 3 – Slightly deficient. Make sure you are more involved during status meetings. 
-	- 3 – Slightly Deficient. I think you should talk more, give more ideas and contribute more. Most of the time, you have the best results in the predictive models, it would be good for the team to know how you’re achieving what you are doing, I think that I’ve never seen until now a line of code written for you and I’d like to know how you’re achieving those results most of the time.
+	- 3. Slightly deficient. Make sure you are more involved during status meetings. 
+	- 3. Slightly Deficient. I think you should talk more, give more ideas and contribute more. Most of the time, you have the best results in the predictive models, it would be good for the team to know how you’re achieving what you are doing, I think that I’ve never seen until now a line of code written for you and I’d like to know how you’re achieving those results most of the time.
 	- 2 You did a great job again this time around, able to contribute and come up with some really good data. One suggestion would be to maybe communicate with the team a bit more. 
-	- 2 – Be sure to speak up when you make connections that are important so that we can use what you found.
-	- 3 – Mars, your model was really good this week and the most accurate, good job! But it would be nice if you spoke up more in meetings and in slack, we would really like to hear your input.
+	- 2. Be sure to speak up when you make connections that are important so that we can use what you found.
+	- 3. Mars, your model was really good this week and the most accurate, good job! But it would be nice if you spoke up more in meetings and in slack, we would really like to hear your input.
 	- 2 participated and was willing to help clarify questions for others. Helped others understand code and asked for help when he got stuck.
 ### Mars Biziyabal Total:
 > Score: [3, 3, 2, 2, 3, 2]  
 > Grade: Median of [22, 22, 23.25, 23.25, 22, 23.25] = **~22.63**
 ## Daniel Hernandez Giraldo
 ### Candor Comments:
-	- 2 – All requirements met. Keep doing what you’re doing! 
+	- 2. All requirements met. Keep doing what you’re doing! 
 	- 2 I think you did a really good job, came up with some really good data and a great model. Your contributions to the group are always really good and help a lot. One suggestion would be to just maybe let the group know a little bit more of your thought process throughout the model.
-	- 2 – be sure to continue asking the TA questions when you do not understand something because we all learn when you ask questions.
-	- 2 – Daniel you’re doing a good job at participating in the group and answering questions in chat, keep up the great work!
+	- 2. be sure to continue asking the TA questions when you do not understand something because we all learn when you ask questions.
+	- 2. Daniel you’re doing a good job at participating in the group and answering questions in chat, keep up the great work!
 	- 2 Participated in meetings offered help with code and gave good coding examples. Always explained what his code did.
 	- 
 ### Daniel Hernandez Giraldo Total:
@@ -351,10 +351,10 @@
 > Grade: Median of [23.25, 23.25, 23.25, 23.25, 23.25, (N/A)] = **23.25**
 ## Jason Kent
 ### Candor Comments:
-	-  3 – Slightly deficient. Great job on providing helpful charts. I’d love it if you talk more during team meetings about how your model is doing and what obstacles you’re facing. 
-	-  3 –  Slightly  Deficient.  If  I  can  give  you  an  advice  that  would  be  to  contribute  with  more ideas to the case study and talk more when we’re in the meetings, that would be very helpful for the team.
+	-  3. Slightly deficient. Great job on providing helpful charts. I’d love it if you talk more during team meetings about how your model is doing and what obstacles you’re facing. 
+	- 3.  Slightly  Deficient.  If I can give you an advice that would be to contribute  with  more ideas to the case study and talk more when we’re in the meetings, that would be very helpful for the team.
 	- 2 you put a lot of work into this project, and you were able to communicate with your team a lot more this time around.  I would say that maybe you could pose more questions to the team, really get answers to things you don’t quite understand.
-	- 3 – Jason, nice job on your model! Something you could work on this week is participating in slack a bit more.
+	- 3. Jason, nice job on your model! Something you could work on this week is participating in slack a bit more.
 	- 3 Was not very active in participation. Was willing to do what was asked of him. I think if he spoke up just a bit more and got more comfortable with the group it would help.
 	- 
 ### Jason Kent Total:
@@ -362,21 +362,21 @@
 > Grade: Median of [25, 25, 25, 25, 25, (N/A)] = **22**
 ## Chance Lopata
 ### Candor Comments:
-	- 3 – Slightly deficient. You do a great job in participating in the group meetings during class. One thing I would advise would be to make some time outside of class, so you are more prepared during the group meetings.
-	- 2  –  All  requirements  were  met.  You  did  an  excellent  job,  and  you  were  always  to contribute with new ideas to the case study. I think you’re doing a good job and you just should keep doing that.
-	- 2 Great job this last week, you asked a lot of really good questions to understand what you could do with your model better, that helped a lot of us with our models as well. One suggestion would be maybe to contribute more to the beginning stages on features we will want to have for the models.
-	- 3 – I want ask more questions because I don’t feel like I really understand whats going on as much as I could.
-	- 2 – Chance, you did a good job on your model this week, and you were actively participating in the class meetings, good job!
+	- 3. Slightly deficient. You do a great job in participating in the group meetings during class. One thing I would advise would be to make some time outside of class, so you are more prepared during the group meetings.
+	- 2. All  requirements  were  met.  You  did  an  excellent  job,  and  you  were  always  to contribute with new ideas to the case study. I think you’re doing a good job and you just should keep doing that.
+	- 2. Great job this last week, you asked a lot of really good questions to understand what you could do with your model better, that helped a lot of us with our models as well. One suggestion would be maybe to contribute more to the beginning stages on features we will want to have for the models.
+	- 3. I want ask more questions because I don’t feel like I really understand whats going on as much as I could.
+	- 2. Chance, you did a good job on your model this week, and you were actively participating in the class meetings, good job!
 	- 2 came to classes and participated asking questions to help the conversations move forward.
 ### Chance Lopata Total:
 > Score: [3, 2, 2, 3, 2, 2]  
 > Grade: Median of [22, 23.25, 22, 23.25, 23.25, 23.25] = **23.25**
 ## Keyanna Oliphant
 ### Candor Comments:
-	- 3 – Slightly deficient. If I could give you one piece of advice going forward, it would be to make our status meetings a priority. You have amazing contributions when you’re present and engaged, so when you miss a meeting without letting us know ahead of time, it really hurts the team.
-	- 2 – All requirements were met. I won’t give feedback about you this week because you were not part of the meeting because you had technical issues and that’s understandable, and after all, you were able to contribute to the group and give good ideas.
-	- 4 – I think I’m obligated to give a low score because you missed 2 out of the 3 meetings, but since you had technology problems I am hoping that you’ll go talk to the professor and maybe get some points back. I don’t have a suggestion for improving since you missed the meetings and it wasn’t your fault.
-	- 3 – For the part of the week I had a working computer, I did my best to actively participate in the group, however something I can do better before next module is having a back-up plan for what happens if I have technical difficulties so next time I don’t get locked out of participating. I also tried to work on some of the feedback I received last week by trying to more actively participate in slack when I was finally able to get back into slack.
+	- 3. Slightly deficient. If I could give you one piece of advice going forward, it would be to make our status meetings a priority. You have amazing contributions when you’re present and engaged, so when you miss a meeting without letting us know ahead of time, it really hurts the team.
+	- 2. All requirements were met. I won’t give feedback about you this week because you were not part of the meeting because you had technical issues and that’s understandable, and after all, you were able to contribute to the group and give good ideas.
+	- 4. I think I’m obligated to give a low score because you missed 2 out of the 3 meetings, but since you had technology problems I am hoping that you’ll go talk to the professor and maybe get some points back. I don’t have a suggestion for improving since you missed the meetings and it wasn’t your fault.
+	- 3. For the part of the week I had a working computer, I did my best to actively participate in the group, however something I can do better before next module is having a back-up plan for what happens if I have technical difficulties so next time I don’t get locked out of participating. I also tried to work on some of the feedback I received last week by trying to more actively participate in slack when I was finally able to get back into slack.
 	- 3 Had some computer difficulties that resulted in not coming to 2 meetings and being unable to really help out when she did come. She did still try and I don’t blame her for her computer giving out.
 	- 
 ### Keyanna Oliphant Total:
@@ -384,10 +384,10 @@
 > Grade: Median of [22, 23.25, 19.5, 22, 22, (N/A)] = **22**
 ## Tanner Layne Troumbley
 ### Candor Comments:
-	- 2 – All requirements were met. Great job on providing helpful charts that helped us select features. You were active on Slack in helping and answering questions. You did great as a team leader. 
-	- 1 – All requirements were met and beyond. You contributed with great ideas and help others in the group to achieve a good accuracy in their predictive model, also, you shared great data visualization which helped all the team to write a good executive summary and determine the best features for the model.
-	- 3 – Try to make sure you can make it to all the meetings when you are the one in charge.
-	- 2 – Great job with team lead this week, you did really well taking  initiative and the class meetings felt very organized this week. Great job!
+	- 2. All requirements were met. Great job on providing helpful charts that helped us select features. You were active on Slack in helping and answering questions. You did great as a team leader. 
+	- 1. All requirements were met and beyond. You contributed with great ideas and help others in the group to achieve a good accuracy in their predictive model, also, you shared great data visualization which helped all the team to write a good executive summary and determine the best features for the model.
+	- 3. Try to make sure you can make it to all the meetings when you are the one in charge.
+	- 2. Great job with team lead this week, you did really well taking  initiative and the class meetings felt very organized this week. Great job!
 	- 2. Really good work this time around, and especially with being the team lead. I would just say that maybe a little better communication to the group on expectations for each day and a heads up on when you won’t be able to make a meeting
 	- 
 ### Tanner Layne Troumbley Total:
@@ -485,10 +485,10 @@
 ### Candor Comments:
 	- (2). All requirements were met, but was still slightly deficient in approach or understanding.Cameron, my advice would be to listen to the other members of the team more. You participated in our meetings, but sometimes it felt like you didn’t listen to us at all and just chimed in at the end with your own ideas. I think our team could do even better if we all put our heads together to collaborate.
 	- 2. Last project, I felt like you had some smart insights throughout the projects which really benefited the team, but it would have been even better if we got to hear those insights/explanations more! I still feel the same way now, but I also felt there were times when, while it was awesome that you when you did share insights, it was difficult for other team members to share theirs. 
-	- 2 – Great work, all I would suggest is to make sure everyone gives their reports when you are the leader for the week.
+	- 2. Great work, all I would suggest is to make sure everyone gives their reports when you are the leader for the week.
 	- 3 Slightly deficient, Cameron you did a great job leading the team, but it can hurt us when you are not present on slack as a leader. We value your opinions and wanted more guidance to help carry us through the week. I feel if we had faster responses from you our team could have made some better decisions and not done so much last minute. 
 	- 3. Forgot to submit the team assignment, thankfully another team member submitted it on time. Also seemed to lack a firm understanding of what would improve the model. Developed very poor model and made little effort to improve it.
-	- 2 – Cameron, you did a good job as team leader this week. I would have liked to get started sooner on the word document, but we did get it done with plenty of time. 
+	- 2. Cameron, you did a good job as team leader this week. I would have liked to get started sooner on the word document, but we did get it done with plenty of time. 
 ### Cameron Lyman Total:
 > Score: [(2), 2, 2, 3, 3, 2]  
 > Grade: Median of [23.25, 23.25, 23.25, 22, 22, 23.25] = **23.25**
@@ -573,7 +573,7 @@
 	- 1. Danny, great work again. I don’t want to sound repetitive, but you really put effort into each team meeting and outside of class to get the work done. One improvement you could make..... maybe let us know a bit beforehand about your daughter’s doctors appointment, but it really was not a big deal, hope everything is alright. Great work!
 	- 1. You were amazing in this module! Your work figuring out what features were most importantwas pivotal to our presentation and in figuring out what features were working. Thank you somuch for figuring out how to do the grid search as well. Your excitement for the project wasgreatly appreciated.  I honestly can’t think of anything that you should improve on. I’m excitedto have you as the project leader for the next module.
 	- 1. You did a good job with playing around with grid search to find the best hyperparameters for this module. I assume that you will need to use that for the future modules as well. Keep doing a research on them.
-	- 1 – Danny went above and beyond by using extra features in the data set to make the model more accurate.
+	- 1. Danny went above and beyond by using extra features in the data set to make the model more accurate.
 ### Danny Moon Total:
 > Score: [1, 1, 1, 1]  
 > Grade: Median of [25, 25, 25, 25] = **25**
@@ -621,14 +621,14 @@
 	- 2. I am going to work more on communicating better with the team as to what I’ve discovered and accomplished so they can benefit from it before presentation day.
 ### Tim Womble Total:
 > Score: [1, 2, 2]  
-> Grade: Median of [25, 23.25, 23.25] = **23.25**
-## Group 11 Score: 
+> Grade: Median of [25, 23.25, 23.25] = **23.25**  
+## Group 11 Score:  
 	- Ethan Nelson: 2
 	- Trey Walker: 3
 	- Tim Womble: 2
-### Group 11 Total: 
+### Group 11 Total:  
 > Score: [2, 3, 2] 
-> Grade: Median of [69.75, 66, 69.75] = **69.75**
+> Grade: Median of [69.75, 66, 69.75] = **69.75**  
 
 * * *
 
@@ -640,7 +640,7 @@
 	- 1. I feel like I put forth a lot of effort and got my work done before the weekend. I spent lots of time outside of class to make a more accurate model. I felt I contributed a lot to the teams understanding and shared some unique data that made the model more effective and inspired new thoughts and ideas. I could be better at understanding the needs of my team members and having a better centralized idea of how to go about the project from the beginning.
 ### Jordan Carlson Total:
 > Score: [1, 1, 1]  
-> Grade: Median of [25, 25, 25] = **25**
+> Grade: Median of [25, 25, 25] = **25**  
 ## Kyle Mueller
 ### Candor Comments:
 	- 1. You stuck with the project and helped out in whatever areas you could. Your move came at an inconvenient time, but I know that its no small task doing that and still managing to be a contributing member of the group.
@@ -648,7 +648,7 @@
 	- 1. You did a good job this week. Your initial analysis and help getting the model started was incredibly helpful and useful. Your ability to ask questions and decide on a route to proceed was really helpful as we decided what to do as a team. It appreciated your efforts even though you had a lot of stuff going on this weekend and had a lot going on. 
 ### Kyle Mueller Total:
 > Score: [1, 1, 1]  
-> Grade: Median of [25, 25, 25] = **25**
+> Grade: Median of [25, 25, 25] = **25**  
 ## Cody Overholt
 ### Candor Comments:
 	- 1. Your contributions were very helpful to the team, However I do feel like you could have done more earlier in the project to get things moving
@@ -657,7 +657,7 @@
 ### Cody Overholt Total:
 > Score: [1, 1, 1]  
 > Grade: Median of [25, 25, 25] = **25**
-## Group 12. Score: 
+## Group 12 Score: 
 	- Jordan Carlson: 1
 	- Kyle Mueller: 1
 	- Cody Overholt: 2
@@ -670,144 +670,143 @@
 # **Group 13**
 ## Rachel Joan Chang
 ### Candor Comments:
-	- 
-	- 
-	- 
+	- 1. All requirements were met, and additional work was done to demonstrate creativity and excellence by going above and beyond. You were amazing Rachel, and all your skills benefit the team a lot. My only advice would it be to communicate clearly on every step that we are working on with a little more detail.
+	- 1. Above and Beyond. Rachel, you did an excellent job of leading the team. You did great at distributing the tasks that we needed to accomplish, as well as make sure that we stuck to a time schedule. I can’t think of any additional suggestions to make. You did a great job!
+	- 1. Did a great job on this week’s assignment on keeping up with the assignment and working on the above and beyond section and relaying information to the team members. Suggestion: To try to find more opportunities in the future to go above and beyond, and take more fully understand the material in regards to how each algorithm works.  
 	- 
 ### Rachel Joan Chang Total:
-> Score: [1, 1, 1, 1]  
-> Grade: Median of [25, 25, 25, 25] = **25**
+> Score: [1, 1, 1, (N/A)]  
+> Grade: Median of [25, 25, 25, (N/A)] = **25**
 ## Catie Holloway
 ### Candor Comments:
-	- 
-	- 
-	- 
+	- 2. All requirements were met. Thank you so much for all your work Catie. My only piece of feedback would be to maybe share your process on slack so everyone in the team can also see it.
+	- 1. Above and Beyond. This week I tried to push myself further by making challenging graphics, as well as really understanding the concepts behind XGBoost. The things I could have done better this week was to work more on the model, since Rachel and Josh did most of the work on this. I could have helped to balance the model. 
+	- 1. Did a fantastic job in going above and beyond and was on top of everything. She was wonderful to work with. For suggestion maybe feel free to vocalize thoughts and ideas more, but other than that did a great job!
 	- 
 ### Catie Holloway Total:
-> Score: [1, 1, 1, 1]  
-> Grade: Median of [25, 25, 25, 25] = **25**
+> Score: [3, 1, 1, (N/A)]  
+> Grade: Median of [22, 25, 25, (N/A)] = **25**
 ## Ricardo Leon Coronado
 ### Candor Comments:
-	- 
-	- 
-	- 
+	- 3. Some attempt was made but was slightly deficient in approach or understanding. You are trying Ricardo and that is amazing. Similarly, to my previous feedback, I would recommend you to dedicate some extra time to go over the material before class.Example:
+	- 1. Above and Beyond. You did a great job at creating graphics, as well as researching what we could do to improve the model. Your work was extremely useful! I’ve noticed that you’ve developed your programming skills a lot. Keep up the great work!
+	- 1. Did a good job in working with Catie in the above and beyond section, and communicating ideas to the team, and actively participating. One suggestion is when coming to team meetings, to try to come on time.
 	- 
 ### Ricardo Leon Coronado Total:
-> Score: [1, 1, 1, 1]  
-> Grade: Median of [25, 25, 25, 25] = **25**
+> Score: [3, 1, 2, (N/A)]  
+> Grade: Median of [22, 25, 23.25, (N/A)] = **23.25**
 ## Josh Nestman
 ### Candor Comments:
-	- 
-	- 
-	- 
+	- 2. All requirements were met. You are brilliant, Josh! My only piece of advice would be to attend all meetings although to be fair, you did tell us ahead of time that you were not going to be able to attend one.
+	- 1. Above and Beyond. Josh, you did a great job at creating a model for the team, and revising it so that it was accurate. You listened and took advice from what others had to improve your work. You did a great job at communicating with the group. The only suggestion that I would offer would be to attend all the zoom meetings, even if you can’t make it to class. However, you did a great job.
+	- 2. Did a good job on creating a function to demonstrate finding the most effective combination of data columns to help the prediction be more accurate. However did miss the meeting on Friday, which made it hard to communicate with him on the project. Suggestion is to try to be more active on the slack channel, that if there is a meeting that is missed, that we are better able to keep him in the loop. 
 	- 
 ### Josh Nestman Total:
-> Score: [1, 1, 1, 1]  
-> Grade: Median of [25, 25, 25, 25] = **25**
+> Score: [2, 1, 2, (N/A)]  
+> Grade: Median of [23.25, 25, 23.25, (N/A)] = **23.25**
 ## Group 13 Score: 
-	- Rachel Joan Chang: 
-	- Catie Holloway: 
-	- Ricardo Leon Coronado: 
-	- Josh Nestman: 
+	- Rachel Joan Chang: 1
+	- Catie Holloway: 1
+	- Ricardo Leon Coronado: 2
+	- Josh Nestman: 1
 ### Group 13 Total: 
-> Score: [1, 1, 1, 1] 
-> Grade: Median of [75, 75, 75, 75] = **75**
+> Score: [1, 1, 2, 1] 
+> Grade: Median of [75, 75, 69.75, 75] = **75**
 
 * * *
 
 # **Group 14**
 ## James Alves da silva
 ### Candor Comments:
-	- 
-	- 
-	- 
-	- 
+	- (2). You always were very involved and trying to help each team member.
+	- 1. You put forth so much effort in doing everything you could to make the model work and to get the assignment done. You did a great job helping out with the summary and adding the picture to it along with writing some of it up. You did a great job with presentation too.
+	- 1. James, you worked really hard on your model completed which was awesome.  I liked how you kept working all week long and that you came to class prepared.  You did very well in the presentation and were very helpful in getting the summary sent in.
+	- 2. I tried to go above and beyond by joining external datasets, but when Asher finished first, I decided to focus on perfecting the model
 ### James Alves da silva Total:
-> Score: [1, 1, 1, 1]  
-> Grade: Median of [25, 25, 25, 25] = **25**
+> Score: [(2), 1, 1, 2]  
+> Grade: Median of [23.25, 25, 25, 23.25] = **~24.13**
 ## Asher Hanson
 ### Candor Comments:
-	- 
-	- 
-	- 
-	- 
+	- (1) You did an excellent job making your RMSE get a pretty good accuracy. You code was excellent and professional. Keep it up.
+	- 1. You were so great this week just like last time. You took initiative when the team lead (me) didn’t, but you also allowed her to lead until the end of the class period when we needed an answer. You did a really good job with the model, the binning, and asking questions when you felt you didn’t understand. You also did a great job explaining the model to the class during presentations.
+	- 1. Worked really hard on keeping the team focused and moving.  He spent a lot of time understanding the model along with ways to get it better.  You have great ideas and seem to really know your stuff.  I would recommend explaining yourself better to our team when we meet.  We aren’t always on the same level, but I can tell you are greatly interested in what we are learning.
+	- 1. Above and beyond. Good job joining the external dataset, creating the bins, and using Z-score.
 ### Asher Hanson Total:
-> Score: [1, 1, 1, 1]  
+> Score: [(1), 1, 1, 1]  
 > Grade: Median of [25, 25, 25, 25] = **25**
 ## Ellie Perkins
 ### Candor Comments:
-	- 
-	- 
-	- 
-	- 
+	- (2). You did an excellent job being the leader for this project. You created organization and amazing ideas.
+	-  2. I created a model and helped with the summary. My model was not the best we had and I had a hard time trying to merge the extra data into the dataset. I also feel I was deficient as the leader for this project even though I really tried to do my best.
+	- (2). Ellie, I was impressed by the way you handled our team at the end of the project.  I admire the way you got the project written, cleaned, and submitted.  If you could have that charisma all week long during the project, I feel like we wouldn’t be as crammed in the end.  You usually have great insights and tips when you are prepared.  
+	- 2. Thanks for leading the team and finishing the project successfully. Good job on holding the zoom meeting to make sure the project was finished in time.
 ### Ellie Perkins Total:
-> Score: [1, 1, 1, 1]  
-> Grade: Median of [25, 25, 25, 25] = **25**
+> Score: [(2), 2, (2), 2]  
+> Grade: Median of [23.25, 23.25, 23.25, 23.25] = **23.25**
 ## Gabriel Sanahuano Castrillon
 ### Candor Comments:
-	- 
-	- 
-	- 
-	- 
+	- 4. I wish I could have helped you get this more. You really need to be in class, and I know that things happen and other classes have projects too, but the meeting times are our time to get information to each other and to work on the model. You also were not there for the presentation. I understand that you said you felt you didn’t know what was going on, and that probably is on me as the team lead for not being clear, but we still would have liked to have you here to present with us. Thank you for the work you put in to get a model and for being at the zoom call to work on the summary.
+	- Try to keep the same pace that the other members of the team. Don’t get behind. 
+	- 3. Gab, during this project it felt like sometimes you weren’t prepared for our meetings.  You always have great insights and ideas when you come to class having worked on the project.  Also, it is critical you come to our group meetings.  When you are gone, it is really hard getting you caught up.  I away appreciate your energy and desire to find good solutions.
+	- 3. Slightly Deficient. Gabriel, I can see you are busy with your other classes, and you are putting in some effort. But I think you will feel more comfortable with the content if you try to attend all status meetings, follow the slack channel more closely, and spend more time outside the class reading or practicing the concepts you are learning. The team is here to help, just ask and we can help.
 ### Gabriel Sanahuano Castrillon Total:
-> Score: [1, 1, 1, 1]  
-> Grade: Median of [25, 25, 25, 25] = **25**
+> Score: [4, (N/A), 3, 3]  
+> Grade: Median of [19, (N/A), 22, 22] = **22**
 ## Group 14 Score: 
-	- James Alves da silva: 
-	- Asher Hanson: 
-	- Ellie Perkins: 
-	- Gabriel Sanahuano Castrillon: 
+	- James Alves da silva: 1
+	- Asher Hanson: 1
+	- Ellie Perkins: 1
+	- Gabriel Sanahuano Castrillon: 2
 ### Group 14 Total: 
-> Score: [1, 1, 1, 1] 
-> Grade: Median of [75, 75, 75, 75] = **75**
+> Score: [1, 1, 1, 2] 
+> Grade: Median of [75, 75, 75, 69.75] = **75**
 
 * * *
 
 # **Group 15**
 ## Trevor Fernstrom
 ### Candor Comments:
-	- 
-	- 
-	- 
+	- 1. Well-done! You did everything on time and found great ways of improving the model. Your impact is great and you did everything very well both as the team leader as well as a team member. As a piece of advice, keep doing the good work!
+	- 1. Above and Beyond. I think that you did an excellent job creating models and sharing your data and findings. One piece of feedback would be to continue creating visuals as you explore the data, but also share them on slack as you create them so that we can see some of what you are seeing in the upcoming modules.
+	- 1
 	- 
 ### Trevor Fernstrom Total:
-> Score: [1, 1, 1, 1]  
-> Grade: Median of [25, 25, 25, 25] = **25**
+> Score: [1, 1, 1, (N/A)]  
+> Grade: Median of [25, 25, 25, (N/A)] = **25**
 ## Ilya Kovalyov
 ### Candor Comments:
-	- 
-	- 
-	- 
-	- 
+	- 1. You did a great job make sure everything got done and you did everything that was asked of you. I like how you constantly try to learn the models and figure out how everything works. 
+	- 1. I put all the additional datasets together with the main dataset to make it easier for all of us. I contributed to the model and the discussions on which parameters to keep and which ones to remove. 
+	- 1. Above and Beyond. You provided some invaluable data to our model. It was excellent to be able to use the features you added, and you put in a ton of legwork to make it so we could use them. The visuals you made were excellent! One piece of feedback would be to share what you are learning on slack as we go forward so that we can learn from you and from each other.
+	- 1
 ### Ilya Kovalyov Total:
 > Score: [1, 1, 1, 1]  
 > Grade: Median of [25, 25, 25, 25] = **25**
 ## Andrew Lundgren
 ### Candor Comments:
-	- 
-	- 
-	- 
-	- 
+	- 1. You always do a great job trying different options for the model to improve its performance. You also add to the discussion on valid features to include in the model. 
+	- 1. Well-done! You did everything on time and very well. You helped each team member learn and you made sure the assignment was submitted on time. Together, you helped identify the weak and strong key indicators. As a piece of advice,I would suggest to keep doing the great work. 
+	- 1. Above and Beyond. I met the requirements needed for this project. I also took the time to fill in for Trevor when he did not have time to finish part of his work and helped Adam write his section of the report. To improve, I am planning on sharing on our slack channel any time that I work on a module so that my team can benefit from my work and help me to understand anything I am lacking. 
+	- 1
 ### Andrew Lundgren Total:
 > Score: [1, 1, 1, 1]  
 > Grade: Median of [25, 25, 25, 25] = **25**
 ## Adam White
 ### Candor Comments:
-	- 
-	- 
-	- 
-	- 
+	- 1. I thought you did a great job adding to the discussion. You always bring good insights into rationally thinking about the features and which ones would be applicable and which ones would not. I think that if you studied up on the models a little bit more and different techniques to improve models then you would do even better.
+	- 1. Well-done! You did everything on time and contributed tothe findings we’ve made. You presented everything well and helped us learn together. I would suggest doing everything a little earlier so that we could not stress out closer to the end of the week when the assignment is due.
+	- 1. All requirements were met. I think that you did a great job sharing your insights and working as part of our team. Some feedback would be to check Slack a little more frequently, especially as we are nearing the due date for a module, to see how you can help contribute to the team.
+	- 2
 ### Adam White Total:
-> Score: [1, 1, 1, 1]  
-> Grade: Median of [25, 25, 25, 25] = **25**
+> Score: [1, 1, 1, 2]  
+> Grade: Median of [25, 25, 25, 23.25] = **25**
 ## Group 15 Score: 
-	- Trevor Fernstrom: 
-	- Ilya Kovalyov: 
-	- Andrew Lundgren: 
-	- Adam White: 
+	- Trevor Fernstrom: 1
+	- Ilya Kovalyov: 1
+	- Andrew Lundgren: 1
+	- Adam White: 1
 ### Group 15 Total: 
 > Score: [1, 1, 1, 1] 
 > Grade: Median of [75, 75, 75, 75] = **75**
 
 * * *
-
